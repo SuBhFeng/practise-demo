@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/dubbo_zookeeper_consumer_demo.iml" filepath="$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/dubbo_zookeeper_consumer_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_zookeeper_provider_demo/dubbo_zookeeper_provider_demo.iml" filepath="$PROJECT_DIR$/dubbo_zookeeper_provider_demo/dubbo_zookeeper_provider_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/redisson-demo/redisson-demo.iml" filepath="$PROJECT_DIR$/redisson-demo/redisson-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/resttemplate-demo/resttemplate-demo.iml" filepath="$PROJECT_DIR$/resttemplate-demo/resttemplate-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-demo/swagger-demo.iml" filepath="$PROJECT_DIR$/swagger-demo/swagger-demo.iml" />
     </modules>
   </component>
 </project>

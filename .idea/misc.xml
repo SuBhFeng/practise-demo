@@ -5,6 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/redisson-demo/pom.xml" />
         <option value="$PROJECT_DIR$/resttemplate-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_zookeeper_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_zookeeper_provider_demo/pom.xml" />
       </list>
     </option>
   </component>
