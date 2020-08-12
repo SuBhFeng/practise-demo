@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/dubbo_zookeeper_demo/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_zookeeper_provider_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm-demo/pom.xml" />
       </list>
     </option>
   </component>
