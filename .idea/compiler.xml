@@ -6,18 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="resttemplate-demo" />
+        <module name="es-demo" />
         <module name="dubbo_zookeeper_consumer_demo" />
         <module name="redisson-demo" />
         <module name="dubbo_zookeeper_provider_demo" />
         <module name="algorithm-demo" />
         <module name="swagger-demo" />
+        <module name="resttemplate-demo" />
+        <module name="mongodb-demo" />
+        <module name="rabbitmq-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="algorithm-demo" target="1.5" />
+      <module name="algorithm-demo" target="8" />
       <module name="dubbo_zookeeper_consumer_demo" target="1.8" />
       <module name="dubbo_zookeeper_provider_demo" target="1.8" />
+      <module name="es-demo" target="1.8" />
+      <module name="mongodb-demo" target="1.8" />
+      <module name="rabbitmq-demo" target="1.8" />
       <module name="redisson-demo" target="1.8" />
       <module name="resttemplate-demo" target="1.8" />
       <module name="swagger-demo" target="1.8" />
@@ -27,6 +33,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dubbo_zookeeper_consumer_demo" options="-parameters" />
       <module name="dubbo_zookeeper_provider_demo" options="-parameters" />
+      <module name="es-demo" options="-parameters" />
+      <module name="mongodb-demo" options="-parameters" />
+      <module name="rabbitmq-demo" options="-parameters" />
       <module name="redisson-demo" options="-parameters" />
       <module name="resttemplate-demo" options="-parameters" />
       <module name="swagger-demo" options="-parameters" />

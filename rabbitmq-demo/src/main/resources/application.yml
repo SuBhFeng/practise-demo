@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: rabbitmq-demo
+  # 配置rabbitmq服务器相关信息
+  rabbitmq:
+    addresses: 192.168.153.150
+    port: 5672
+    username: sufeng
+    password: sufeng
+    virtual-host: /sufeng
+

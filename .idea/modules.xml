@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm-demo/algorithm-demo.iml" filepath="$PROJECT_DIR$/algorithm-demo/algorithm-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/dubbo_zookeeper_consumer_demo.iml" filepath="$PROJECT_DIR$/dubbo_zookeeper_consumer_demo/dubbo_zookeeper_consumer_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo_zookeeper_provider_demo/dubbo_zookeeper_provider_demo.iml" filepath="$PROJECT_DIR$/dubbo_zookeeper_provider_demo/dubbo_zookeeper_provider_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-demo/es-demo.iml" filepath="$PROJECT_DIR$/es-demo/es-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8-new/java8-new.iml" filepath="$PROJECT_DIR$/java8-new/java8-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" filepath="$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" filepath="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/redisson-demo/redisson-demo.iml" filepath="$PROJECT_DIR$/redisson-demo/redisson-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/resttemplate-demo/resttemplate-demo.iml" filepath="$PROJECT_DIR$/resttemplate-demo/resttemplate-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/swagger-demo/swagger-demo.iml" filepath="$PROJECT_DIR$/swagger-demo/swagger-demo.iml" />
